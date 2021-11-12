@@ -1,2 +1,1 @@
-# scratchGame
-My Rock Paper Scissors Scratch Game
+My Rock Paper Scissors Scratch Game! 🎮
